@@ -8,6 +8,10 @@ pip install taichi
 
 Now there are only some codes copied from tutorial.
 
+## Taichi Video Tutorial
+
+https://www.bilibili.com/video/BV1aL4y1a7pv
+
 ## Taichi initial
 
 ```python
